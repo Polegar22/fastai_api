@@ -8,5 +8,5 @@ Then :
 To run the server : cd fastai_api/server
                     python run_fastai_server.py
                     
-To run the client : cd fastai_api/client
+To request the server : cd fastai_api/client
                     python request.py
